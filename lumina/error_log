@@ -1,0 +1,6 @@
+[17-Oct-2016 00:25:17 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home4/webmaster/public_html/lumina/php_includes/db_connect.php on line 15
+[17-Oct-2016 00:25:23 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home4/webmaster/public_html/lumina/php_includes/db_connect.php on line 15
+[17-Oct-2016 00:25:29 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home4/webmaster/public_html/lumina/php_includes/db_connect.php on line 15
+[17-Oct-2016 00:25:30 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home4/webmaster/public_html/lumina/php_includes/db_connect.php on line 15
+[17-Oct-2016 00:25:30 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home4/webmaster/public_html/lumina/php_includes/db_connect.php on line 15
+[17-Oct-2016 00:25:30 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home4/webmaster/public_html/lumina/php_includes/db_connect.php on line 15
