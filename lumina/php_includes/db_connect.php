@@ -1,5 +1,5 @@
 <?php
-$servername = "localhost";
+$servername = "localhost.wittree.co";
 $username = "webmaste_usrconn";
 $password = "k!f..wUo]7cC";
 $dbName = "webmaste_Estudiar";
