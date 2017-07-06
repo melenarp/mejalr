@@ -1,5 +1,5 @@
 <?php
-$servername = "192.254.236.240";
+$servername = "11.58.0.50";
 $username = "webmaste_usrconn";
 $password = "k!f..wUo]7cC";
 $dbName = "webmaste_Estudiar";
