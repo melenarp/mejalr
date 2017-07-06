@@ -273,10 +273,22 @@
 							  <div class="input-group">
 							  	<span class="input-group-addon" id="basic-addon3">Mazo:</span>							  	
 								<select class="form-control selectpicker" id="sel1">
-									<option hidden >Selecciona un mazo para estudiar...</option>
+									<option hidden>Selecciona un mazo para estudiar...</option>
 								</select>
 							  </div>
 							</div>
+							<!-- Inicio test de ajax -->
+							<div id="result"></div>
+							<div id="selccioneMazo">
+								  <select name="cars">
+								    <option value="volvo">Volvo XC90</option>
+								    <option value="saab">Saab 95</option>
+								    <option value="mercedes">Mercedes SLK</option>
+								    <option value="audi">Audi TT</option>
+								  </select>
+							</div>
+							<!-- Fin test de ajax -->
+							<button id="send_btn">enviar</button>
                             <img src="img/portfolio/cabin.png" class="img-responsive img-centered" alt="">
                             <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                             <ul class="list-inline item-details">
@@ -501,6 +513,9 @@
 
     <!-- Theme JavaScript -->
     <script src="js/freelancer.min.js"></script>
+    
+    <!-- Lumina JavaScript -->
+    <script src="js/source.js"></script>
 
 </body>
 
